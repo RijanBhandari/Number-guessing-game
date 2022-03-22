@@ -1,2 +1,2 @@
 # Number-guessing-game
-I game where you guess numbers
+A game where you guess numbers
